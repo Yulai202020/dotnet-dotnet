@@ -1,0 +1,66 @@
+C:\src\DOTNET\WPF C#\wpf1\bin\Debug\net5.0-windows\SEGCoin.exe
+C:\src\DOTNET\WPF C#\wpf1\bin\Debug\net5.0-windows\SEGCoin.deps.json
+C:\src\DOTNET\WPF C#\wpf1\bin\Debug\net5.0-windows\SEGCoin.runtimeconfig.json
+C:\src\DOTNET\WPF C#\wpf1\bin\Debug\net5.0-windows\SEGCoin.runtimeconfig.dev.json
+C:\src\DOTNET\WPF C#\wpf1\bin\Debug\net5.0-windows\SEGCoin.dll
+C:\src\DOTNET\WPF C#\wpf1\bin\Debug\net5.0-windows\ref\SEGCoin.dll
+C:\src\DOTNET\WPF C#\wpf1\bin\Debug\net5.0-windows\SEGCoin.pdb
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\SEGCoin.csprojAssemblyReference.cache
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\App.g.cs
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\SEGCoin_MarkupCompile.cache
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\SEGCoin_MarkupCompile.lref
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\SEGCoin.g.resources
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\SEGCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\SEGCoin.AssemblyInfoInputs.cache
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\SEGCoin.AssemblyInfo.cs
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\SEGCoin.csproj.CoreCompileInputs.cache
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\SEGCoin.dll
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\ref\SEGCoin.dll
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\SEGCoin.pdb
+C:\src\DOTNET\WPF C#\wpf1\obj\Debug\net5.0-windows\SEGCoin.genruntimeconfig.cache
+C:\src\DOTNET\WPF C#\SEGCoin\bin\Debug\net5.0-windows\SEGCoin.exe
+C:\src\DOTNET\WPF C#\SEGCoin\bin\Debug\net5.0-windows\SEGCoin.deps.json
+C:\src\DOTNET\WPF C#\SEGCoin\bin\Debug\net5.0-windows\SEGCoin.runtimeconfig.json
+C:\src\DOTNET\WPF C#\SEGCoin\bin\Debug\net5.0-windows\SEGCoin.runtimeconfig.dev.json
+C:\src\DOTNET\WPF C#\SEGCoin\bin\Debug\net5.0-windows\SEGCoin.dll
+C:\src\DOTNET\WPF C#\SEGCoin\bin\Debug\net5.0-windows\ref\SEGCoin.dll
+C:\src\DOTNET\WPF C#\SEGCoin\bin\Debug\net5.0-windows\SEGCoin.pdb
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.csprojAssemblyReference.cache
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\App.g.cs
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\SEGCoin_MarkupCompile.cache
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\SEGCoin_MarkupCompile.lref
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\MainWindow.baml
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.g.resources
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.AssemblyInfoInputs.cache
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.AssemblyInfo.cs
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.csproj.CoreCompileInputs.cache
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.dll
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\ref\SEGCoin.dll
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.pdb
+C:\src\DOTNET\WPF C#\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.genruntimeconfig.cache
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\bin\Debug\net5.0-windows\SEGCoin.exe
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\bin\Debug\net5.0-windows\SEGCoin.deps.json
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\bin\Debug\net5.0-windows\SEGCoin.runtimeconfig.json
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\bin\Debug\net5.0-windows\SEGCoin.runtimeconfig.dev.json
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\bin\Debug\net5.0-windows\SEGCoin.dll
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\bin\Debug\net5.0-windows\ref\SEGCoin.dll
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\bin\Debug\net5.0-windows\SEGCoin.pdb
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.csproj.AssemblyReference.cache
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\App.g.cs
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\SEGCoin_MarkupCompile.cache
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\SEGCoin_MarkupCompile.lref
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\MainWindow.baml
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.g.resources
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.AssemblyInfoInputs.cache
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.AssemblyInfo.cs
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.csproj.CoreCompileInputs.cache
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.dll
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\ref\SEGCoin.dll
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.pdb
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGCoin\obj\Debug\net5.0-windows\SEGCoin.genruntimeconfig.cache

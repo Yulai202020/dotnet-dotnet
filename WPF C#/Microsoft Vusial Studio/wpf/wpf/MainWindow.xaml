@@ -1,0 +1,98 @@
+﻿<Window x:Class="wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf"
+        mc:Ignorable="d"
+        Title="Copying" Height="402.165" Width="736.4">
+    <Grid Margin="0,10,-0.2,-0.4">
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform ScaleX="1"/>
+                <SkewTransform/>
+                <RotateTransform/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="201*"/>
+            <ColumnDefinition Width="88*"/>
+            <ColumnDefinition Width="297*"/>
+        </Grid.ColumnDefinitions>
+        <ProgressBar
+                 Name="progressBar1" Margin="47.4,27,53.6,279.2" ValueChanged="progressBar1_ValueChanged" Grid.ColumnSpan="3" Grid.Column="1" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="4.474"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+            <ProgressBar.Triggers>
+                <EventTrigger RoutedEvent="ProgressBar.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation
+                Storyboard.TargetName="progressBar1" 
+                Storyboard.TargetProperty="Value"
+                From="0" To="100" Duration="0:0:20"  />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </ProgressBar.Triggers>
+        </ProgressBar>
+        <ProgressBar
+                 Name="progressBar4" Margin="-8,120,118.6,166.2" ValueChanged="progressBar1_ValueChanged" Grid.ColumnSpan="4" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-37.514"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="61.032"/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+            <ProgressBar.Triggers>
+                <EventTrigger RoutedEvent="ProgressBar.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation
+                Storyboard.TargetName="progressBar4" 
+                Storyboard.TargetProperty="Value"
+                From="0" To="100" Duration="0:0:20"  />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </ProgressBar.Triggers>
+        </ProgressBar>
+        <ProgressBar
+                 Name="progressBar3" Margin="26.4,258,73.6,39.2" ValueChanged="progressBar1_ValueChanged" Grid.ColumnSpan="3" Grid.Column="1" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-173.96"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+            <ProgressBar.Triggers>
+                <EventTrigger RoutedEvent="ProgressBar.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation
+                Storyboard.TargetName="progressBar3" 
+                Storyboard.TargetProperty="Value"
+                From="0" To="100" Duration="0:0:20"  />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </ProgressBar.Triggers>
+        </ProgressBar>
+        <Button x:Name="animation1" Content="animation" Grid.Column="1" HorizontalAlignment="Left" Margin="0.4,76,0,0" VerticalAlignment="Top" Width="117" RenderTransformOrigin="0.645,2.073" Height="33" Click="animation2_Click" />
+        <Button x:Name="animation2" Content="animation" Grid.Column="3" HorizontalAlignment="Left" Margin="161.2,230,0,0" VerticalAlignment="Top" Width="117" RenderTransformOrigin="0.645,2.073" Height="33" Click="animation2_Click_1"/>
+        <TextBlock x:Name="text1" Grid.Column="1" HorizontalAlignment="Left" Margin="122.4,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="20" Width="202"/>
+        <TextBlock x:Name="text2" Grid.Column="2" HorizontalAlignment="Left" Margin="29.2,219,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="20" Width="202"/>
+    </Grid>
+</Window>

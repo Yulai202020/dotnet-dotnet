@@ -1,0 +1,66 @@
+C:\src\DOTNET\WPF C#\wpf1g\bin\Debug\net5.0-windows\SEGGOLDCoin.exe
+C:\src\DOTNET\WPF C#\wpf1g\bin\Debug\net5.0-windows\SEGGOLDCoin.deps.json
+C:\src\DOTNET\WPF C#\wpf1g\bin\Debug\net5.0-windows\SEGGOLDCoin.runtimeconfig.json
+C:\src\DOTNET\WPF C#\wpf1g\bin\Debug\net5.0-windows\SEGGOLDCoin.runtimeconfig.dev.json
+C:\src\DOTNET\WPF C#\wpf1g\bin\Debug\net5.0-windows\SEGGOLDCoin.dll
+C:\src\DOTNET\WPF C#\wpf1g\bin\Debug\net5.0-windows\ref\SEGGOLDCoin.dll
+C:\src\DOTNET\WPF C#\wpf1g\bin\Debug\net5.0-windows\SEGGOLDCoin.pdb
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\SEGGOLDCoin.csprojAssemblyReference.cache
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\App.g.cs
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\SEGGOLDCoin_MarkupCompile.cache
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\SEGGOLDCoin_MarkupCompile.lref
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\MainWindow.baml
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\SEGGOLDCoin.g.resources
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\SEGGOLDCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\SEGGOLDCoin.AssemblyInfoInputs.cache
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\SEGGOLDCoin.AssemblyInfo.cs
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\SEGGOLDCoin.csproj.CoreCompileInputs.cache
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\SEGGOLDCoin.dll
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\ref\SEGGOLDCoin.dll
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\SEGGOLDCoin.pdb
+C:\src\DOTNET\WPF C#\wpf1g\obj\Debug\net5.0-windows\SEGGOLDCoin.genruntimeconfig.cache
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\bin\Debug\net5.0-windows\SEGGOLDCoin.exe
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\bin\Debug\net5.0-windows\SEGGOLDCoin.deps.json
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\bin\Debug\net5.0-windows\SEGGOLDCoin.runtimeconfig.json
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\bin\Debug\net5.0-windows\SEGGOLDCoin.runtimeconfig.dev.json
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\bin\Debug\net5.0-windows\SEGGOLDCoin.dll
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\bin\Debug\net5.0-windows\ref\SEGGOLDCoin.dll
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\bin\Debug\net5.0-windows\SEGGOLDCoin.pdb
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.csprojAssemblyReference.cache
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\App.g.cs
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin_MarkupCompile.cache
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin_MarkupCompile.lref
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\MainWindow.baml
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.g.resources
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.AssemblyInfoInputs.cache
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.AssemblyInfo.cs
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.csproj.CoreCompileInputs.cache
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.dll
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\ref\SEGGOLDCoin.dll
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.pdb
+C:\src\DOTNET\WPF C#\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.genruntimeconfig.cache
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\bin\Debug\net5.0-windows\SEGGOLDCoin.exe
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\bin\Debug\net5.0-windows\SEGGOLDCoin.deps.json
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\bin\Debug\net5.0-windows\SEGGOLDCoin.runtimeconfig.json
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\bin\Debug\net5.0-windows\SEGGOLDCoin.runtimeconfig.dev.json
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\bin\Debug\net5.0-windows\SEGGOLDCoin.dll
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\bin\Debug\net5.0-windows\ref\SEGGOLDCoin.dll
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\bin\Debug\net5.0-windows\SEGGOLDCoin.pdb
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.csproj.AssemblyReference.cache
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\App.g.cs
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin_MarkupCompile.cache
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin_MarkupCompile.lref
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\MainWindow.baml
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.g.resources
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.AssemblyInfoInputs.cache
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.AssemblyInfo.cs
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.csproj.CoreCompileInputs.cache
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.dll
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\ref\SEGGOLDCoin.dll
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.pdb
+C:\src\DOTNET\WPF C#\Vusial Studio\SEGGOLDCoin\obj\Debug\net5.0-windows\SEGGOLDCoin.genruntimeconfig.cache

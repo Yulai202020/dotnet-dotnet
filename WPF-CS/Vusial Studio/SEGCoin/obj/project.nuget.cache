@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "frQzLhh7J6J9BvoIly/NOgqBMRJEFYSY2gitP/mQXxcfjLFM1WWkWQoNy9q0pHlv6kDLd1LJhPT6R9N+PkKykA==",
+  "dgSpecHash": "MFKFqX3qJkScbhxwssNELgnWcgEdQqr3EdZYbzXbCpQ/xNFwwzlcZp7J5nBrBeSumZb/ncBKoMsoB2tfHbL+qg==",
   "success": true,
-  "projectFilePath": "C:\\src\\DOTNET\\WPF C#\\Vusial Studio\\SEGCoin\\SEGCoin.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/yulai/dotnet-dotnet/WPF-CS/Vusial Studio/SEGCoin/SEGCoin.csproj",
+  "expectedPackageFiles": [
+    "/home/yulai/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/yulai/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/yulai/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
